@@ -7,7 +7,7 @@
 
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> Mis series favoritas son: **Brooklyn 99, Dr. House y FMAB**
 
-- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> Cosas que me gustan: **Leer sobre astronomía, acariciar gatos y jugar Mario Galaxy**
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> Cosas que me gustan: **Leer sobre astronomía y jugar Mario Galaxy**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

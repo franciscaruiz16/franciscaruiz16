@@ -10,14 +10,13 @@
 - <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> Cosas que me gustan: **Leer sobre astronomía y jugar Mario Galaxy**
 
 <h3 align="center">Connect with me:</h3>
-<div align="center">
+<div  align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisca-ruiz-araya/)
 [![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pancha.rz/)
 [![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscaruiz@ug.uchile.cl)
   
 </div>
-
 <img align="right" width="25%" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <h3 align="center">Languages and Tools:</h3>
